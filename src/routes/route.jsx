@@ -9,7 +9,7 @@ import CreatePlaguePage from '../pages/CreatePlaguePage';
 import EditPlantPage from '../pages/EditPlantPage';
 import EditPlaguePage from '../pages/EditPlaguePage';
 import PrivateRoute from '../components/PrivateRoute';
-import Logout from '../components/logOut';
+import Logout from '../components/Logout';
 import Login from '../pages/Login';
 import HomePage from '../pages/HomePage';
 import Register from '../pages/Register';
